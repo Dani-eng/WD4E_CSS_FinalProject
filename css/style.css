@@ -86,7 +86,7 @@ ul li {
   color:#1A1D20;
   padding:16px 32px;
   border-radius: 8px;
-  font-family: sans-serif;
+  font-family:serif;
   font-weight:bold;
   transition: background 0.2s ease-in-out;
 }
